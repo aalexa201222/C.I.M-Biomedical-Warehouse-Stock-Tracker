@@ -21,11 +21,11 @@ Step 1: Download the project folder or clone the Project Repository
 Step 2: Copy the path of the landingpage.html file in the Project Folder <br>
 Step 3: Paste it on the URL bar of a browser
 
-## User Guide: Main Screens and Features of ParkPick
+## User Guide: Main Screens and Features 
 
 ### Landing Page:
 
-The first page you see upon entering the application, you will be given the option to either Log In to their account, Sign Up to create a new ParkPick account, or make a one time payment to bypass the need of having an account to make a quick payment. Each button will redirect you to the Log In, Sign Up and One Time Payment pages respectively. For any inquiries a “Contact Us’ option is also available in case any issues come up.
+The first page you see upon entering the application, you will be given the option to either Log In to their account, Sign Up to create a new account
 
 ### Sign Up:
 
