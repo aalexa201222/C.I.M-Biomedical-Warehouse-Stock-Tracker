@@ -18,7 +18,7 @@
 ## Accessing the Prototype
 
 Step 1: Download the project folder or clone the Project Repository  
-Step 2: Copy the path of the landingpage.html file in the Project Folder
+Step 2: Copy the path of the landingpage.html file in the Project Folder <br>
 Step 3: Paste it on the URL bar of a browser
 
 ## User Guide: Main Screens and Features of ParkPick
