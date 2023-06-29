@@ -1,0 +1,64 @@
+#header {
+    height: 50px;
+    background-color: #164a41;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+}
+.table {
+    margin-top: 50px;
+    height: 50px;
+    position:relative;
+    
+    width:100%;
+}
+
+#search {
+    height: 30px;
+    width: 300px;
+    background-color: #ffffff;
+    border: #f1b24a;
+    position: relative;
+    margin: auto;
+    top: 10px;
+    margin-left: 30px;
+    position: relative;
+    padding: 1px;
+    font-size: 16px;
+}
+
+/* Style the submit button */
+#searchButton {
+    width: 30px;
+    height: 30px;
+    background: #f1b24a;
+    color: white;
+    top: 10px;
+    position: relative;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.column {
+    float: left;
+    width: 15%;
+    background-color: #9dc88d;
+    border-radius: 5px;
+    text-align: center;
+    height: 100%;
+    margin-right: 10px;
+}
+
+#main {
+    width: 95%;
+    height: 400px;
+    position: relative;
+    top: 80px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}

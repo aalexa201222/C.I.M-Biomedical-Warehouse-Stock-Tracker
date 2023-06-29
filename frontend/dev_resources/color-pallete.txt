@@ -1,0 +1,23 @@
+/* CSV */
+b9c0da,998da0,63585e,62ab37,0e131f
+
+/* With # */
+#b9c0da, #998da0, #63585e, #62ab37, #0e131f
+
+/* Array */
+["b9c0da","998da0","63585e","62ab37","0e131f"]
+
+/* Object */
+{"Light Periwinkle":"b9c0da","Heliotrope Gray":"998da0","Dark Liver":"63585e","Green RYB":"62ab37","Rich Black FOGRA 29":"0e131f"}
+
+/* Extended Array */
+[{"name":"Light Periwinkle","hex":"b9c0da","rgb":[185,192,218],"cmyk":[15,12,0,15],"hsb":[227,15,85],"hsl":[227,31,79],"lab":[78,3,-14]},{"name":"Heliotrope Gray","hex":"998da0","rgb":[153,141,160],"cmyk":[4,12,0,37],"hsb":[278,12,63],"hsl":[278,9,59],"lab":[60,8,-8]},{"name":"Dark Liver","hex":"63585e","rgb":[99,88,94],"cmyk":[0,11,5,61],"hsb":[327,11,39],"hsl":[327,6,37],"lab":[39,6,-2]},{"name":"Green RYB","hex":"62ab37","rgb":[98,171,55],"cmyk":[43,0,68,33],"hsb":[98,68,67],"hsl":[98,51,44],"lab":[63,-43,51]},{"name":"Rich Black FOGRA 29","hex":"0e131f","rgb":[14,19,31],"cmyk":[55,39,0,88],"hsb":[222,55,12],"hsl":[222,38,9],"lab":[6,1,-9]}]
+
+/* XML */
+<palette>
+  <color name="Light Periwinkle" hex="b9c0da" r="185" g="192" b="218" />
+  <color name="Heliotrope Gray" hex="998da0" r="153" g="141" b="160" />
+  <color name="Dark Liver" hex="63585e" r="99" g="88" b="94" />
+  <color name="Green RYB" hex="62ab37" r="98" g="171" b="55" />
+  <color name="Rich Black FOGRA 29" hex="0e131f" r="14" g="19" b="31" />
+</palette>

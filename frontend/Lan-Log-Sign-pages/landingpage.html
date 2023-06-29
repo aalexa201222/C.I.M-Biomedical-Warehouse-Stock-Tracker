@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+  <style>
+
+    body {
+      font-family: Verdana,sans-serif;
+      font-size: 15px;
+      line-height: 1.5;
+      color: #0E131F;
+      background: #B9C0DA;
+    }
+
+    h1,h2{
+      text-align: center;
+    }
+
+    /*set a style for the buttons*/
+    button {
+        background-color: #3b6b1f;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+    }
+
+    /* set a hover effect for the button*/
+    button:hover {
+        opacity: 0.8;
+        background-color: #63585e;
+    }
+
+    /*set padding to the container*/
+    .container {
+        border: 5px solid #63585e;
+        padding: 16px;
+        background-color: #62ab37;
+        width: 60%;
+        margin: auto;
+    }
+
+    .imgcontainer {
+        text-align: center;
+        margin: 24px 0 12px 0;
+    }
+
+    .avatar{
+      margin: 24px 0 12px 0;
+      width: auto;
+      text-align: center;
+    }
+
+    /*set styles for span and cancel button on small screens*/
+    @media screen and (max-width: 300px) {
+        span.psw {
+            display: block;
+            float: none;
+        }
+    }
+</style>
+
+<body>
+
+    <h1>Welcome to the Company Site of C.I.M Biomedical</h1>
+    <h2>Please press the login button below and enter your company credentials</h2>
+
+    <div class="container">
+      <label><b> Login </b></label>
+        <a href='./login.html'><button>Click Here</button></a>
+    </div>
+
+    <div class="imgcontainer">
+      <img src="https://i.imgur.com/gq738mR.png" alt="Avatar" class="avatar">
+    </div>
+
+</body>
+
+</html>
